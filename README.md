@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Best Sneakers
 
 This project was made as example of a simple sneakers-shop for my portfolio.
 
