@@ -5,13 +5,14 @@
     border-radius: 40px;
     margin-right: 30px;
     transition: box-shadow 0.2 ease-in-out; transform: 0.2 ease-in-out ;
-    
+    margin-bottom: 30px;
+   
     .plus {
       cursor: pointer;
     }
   
       &:hover {
-        box-shadow: 0px 20px 35px rgba(0, 0, 0, 0.06);
+        box-shadow: 0px 0px 20px 11px #72e487;
         transform: translateY(-5px);
       }
   
